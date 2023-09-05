@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+label,
+input,
+select,
+fieldset {
+  margin-bottom: 10px;
+}
